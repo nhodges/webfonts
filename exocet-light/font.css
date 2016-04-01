@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Exocet Light";
+  font-style: normal;
+  font-weight: normal;
+  src: url("exocet-light.eot?") format("eot"),
+       url("exocet-light.woff") format("woff"),
+       url("exocet-light.ttf") format("truetype"),
+       url("exocet-light.svg#ExocetLight") format("svg");
+}
